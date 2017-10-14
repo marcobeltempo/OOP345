@@ -1,0 +1,30 @@
+digraph order {
+"DDR 266"->"Biance
+Dell 123";
+"I7"->"Biance
+Dell 123";
+"DDR 266"->"Biance
+Dell 123";
+"Nano"->"Biance
+Dell 123";
+"Power Supply - 300 Watt"->"Biance
+Dell 123";
+"A12"->"Salt-N-Pepa
+HP 345";
+"DDR 400"->"Salt-N-Pepa
+HP 345";
+"Geforce 750M"->"Salt-N-Pepa
+HP 345";
+"DDR 400"->"Salt-N-Pepa
+HP 345";
+"Power Supply - 300 Watt"->"Salt-N-Pepa
+HP 345";
+"I5"->"Brianna
+Acer 567";
+"Power Supply - 200 Watt"->"Brianna
+Acer 567";
+"DDR 266"->"Brianna
+Acer 567";
+"Nano"->"Brianna
+Acer 567";
+}

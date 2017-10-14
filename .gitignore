@@ -1,0 +1,11 @@
+.vs
+Debug
+*.vcxproj
+*.vcxproj.*
+*.pdf
+*.zip
+*.sln
+*.db
+*.VC.db
+x64
+

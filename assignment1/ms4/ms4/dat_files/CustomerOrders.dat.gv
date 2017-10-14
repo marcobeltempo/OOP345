@@ -1,0 +1,28 @@
+digraph order {
+"CPU"->"Fardad Soleimanloo
+Dell Precision 3600";
+"Memory"->"Fardad Soleimanloo
+Dell Precision 3600";
+"Memory"->"Fardad Soleimanloo
+Dell Precision 3600";
+"CPU"->"Joseph Hughes
+HP Z230";
+"Memory"->"Joseph Hughes
+HP Z230";
+"CPU"->"Chris Szalwinski
+HP Z350";
+"Memory"->"Chris Szalwinski
+HP Z350";
+"SSD"->"Chris Szalwinski
+HP Z350";
+"GPU"->"Chris Szalwinski
+HP Z350";
+"CPU"->"Elliott Coleshill
+HP Apollo 1000";
+"MEMORY"->"Elliott Coleshill
+HP Apollo 1000";
+"Power Supply"->"Elliott Coleshill
+HP Apollo 1000";
+"GPU"->"Elliott Coleshill
+HP Apollo 1000";
+}

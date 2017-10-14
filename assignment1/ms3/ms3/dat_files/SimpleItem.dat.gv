@@ -1,0 +1,20 @@
+digraph order {
+"I5"->"Install CPU" [color=green];
+"I5"->"Remove CPU" [color=red];
+"I7"->"Install CPU" [color=green];
+"I7"->"Remove CPU" [color=red];
+"A12"->"Install CPU" [color=green];
+"A12"->"Remove CPU" [color=red];
+"DDR 266"->"Install Memory" [color=green];
+"DDR 266"->"Remove Memory" [color=red];
+"DDR 400"->"Install Memory" [color=green];
+"DDR 400"->"Remove Memory" [color=red];
+"Geforce 750M"->"Install GPU" [color=green];
+"Geforce 750M"->"Remove GPU" [color=red];
+"Nano"->"Install GPU" [color=green];
+"Nano"->"Remove GPU" [color=red];
+""->"" [color=green];
+""->"" [color=red];
+""->"" [color=green];
+""->"" [color=red];
+}
